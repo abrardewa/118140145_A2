@@ -1,0 +1,41 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #18c73e;
+}
+
+.navbar li {
+  float: left;
+  margin-right: 18px;
+}
+
+.navbar li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 20px;
+  -webkit-text-decoration: #10c8f7;
+          text-decoration: #10c8f7;
+}
+
+.navbar li a:hover {
+  background-color: #10c8f7;
+}
+
+.content {
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+}
+
+.footer p {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #18c73e;
+  text-align: center;
+}
+/*# sourceMappingURL=variabel.css.map */
