@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas 2</title>
+</head>
+<body>
+    <main>
+        <div id="1">Ubah</div> 
+        <section class="ubah">Basing </section>
+        <div class="ubah">basing</div>
+        <br></br>
+        <button onclick="return change(document.getElementById('1'), 'purple')">getElementById</button><br>
+        <button onclick="return change(document.getElementsByClassName('ubah'), 'green')">getElementsByClassName</button><br>
+        <button onclick="return change(document.getElementsByTagName('section'), 'blue')">getElementsByTagName</button><br>
+        <button onclick="return change(document.querySelector('div'), 'orange')">querySelector</button><br> 
+        <button onclick="return change(document.querySelectorAll('div'), 'grey')"> querySelectorAll</button><br>
+    </main>
+
+    <script>
+        function change(element, color) {
+            elementLength = element.length;
+            if (elementLength) {
+                for (let i = 0; i < elementLength; i++) {
+                    element[i].style.backgroundColor = color;
+                }
+                return;
+            }
+            element.style.backgroundColor = color;
+        }
+    </script>
+</body>
+</html>

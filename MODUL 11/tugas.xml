@@ -1,0 +1,27 @@
+<biodata>
+	<nama>
+		<awal>Abrar Dewa</awal>
+		<akhir>Pratama Barus</akhir>
+	</nama>
+	<umur>20 tahun </umur>
+	<jenis_kelamin> Laki-laki </jenis_kelamin>
+	<ttl> Medan, 10 November 2000</ttl>
+    <orang_tua>
+        <ayah>Rahasia</ayah>
+        <ibu>Rahasia jugaa</ibu>
+    </orang_tua>
+	<alamat>
+        <jl>Jl. Nangka V</jl>
+        <kecamatan>Sukarame</kecamatan>
+        <kota>Bandar Lampung</kota>
+    </alamat>
+    <hobi>Futsal</hobi>
+    <hobi>Game</hobi>
+    <hobi>Nonton</hobi>
+    <hobi>Tidur</hobi>
+    <hobi>Rebahan</hobi>
+    <social_media>
+        <instagram>abrardewap</instagram>
+        <facebook>Abrar Dewa Pratama Barus</facebook>
+    </social_media>
+</biodata>

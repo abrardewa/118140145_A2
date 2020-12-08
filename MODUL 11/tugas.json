@@ -1,0 +1,23 @@
+{
+	"nama": {
+		"awal" : "Abrar Dewa",
+		"akhir" : "Pratama Barus"
+    },
+	"umur": 20 ,
+    "jenis_kelamin": "Laki - laki ",
+    "ttl": "Medan, 10 November 2000",
+    "orang_tua": {
+        "ayah": "Rahasia",
+        "ibu" : "Rahasia jugaa"
+    },
+	"alamat": {
+		"jl" : "Jl. NangkaV" , 
+		"kecamatan" : "Sukarame" ,
+		"kota" : "Bandar Lampung" 
+	} ,
+    "hobi": ["Futsal", "Game", "Nonton", "Tidur", "Rebahan"],
+	"social_media": {
+        "instagram": "abrardewap",
+        "facebook": "Abrar Dewa Pratama Barus"
+    }
+}
